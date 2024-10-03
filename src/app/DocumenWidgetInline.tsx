@@ -41,7 +41,7 @@ export const DocumentWidgetInline: React.FC<{
         handleMessage
       );
     };
-  }, [editorIframeNode, router]);
+  }, [editorIframeNode, router, onOpenChange, onchange]);
 
   // canvas URL must be calculated once
   const [canvasUrl] = useState(() => {
