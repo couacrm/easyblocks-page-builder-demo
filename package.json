@@ -29,6 +29,7 @@
     "typescript": "5.1.6"
   },
   "devDependencies": {
-    "@types/vimeo__player": "^2.18.3"
+    "@types/vimeo__player": "^2.18.3",
+    "jest-worker": "^29.7.0"
   }
 }
