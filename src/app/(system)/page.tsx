@@ -123,7 +123,7 @@ export default function MainPage() {
             </p>
 
             <div
-              className={"max-w-lg h-[1px] bg-neutral-200 mb-5 mt-5 mt-10"}
+              className={"max-w-lg h-[1px] bg-neutral-200 mb-5 mt-5"}
             ></div>
 
             <p className={"text-sm mb-4 text-black-2 max-w-lg"}>
